@@ -79,3 +79,10 @@ nav ul li
         right:-200px;
     }
 }
+@media(max-width:600px)
+{
+    .logo
+    {
+        width:150px;
+    }
+}
